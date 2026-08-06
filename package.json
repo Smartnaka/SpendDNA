@@ -1,0 +1,5 @@
+{
+  "scripts": {"dev":"next dev","build":"next build","start":"next start","lint":"next lint","typecheck":"tsc --noEmit"},
+  "dependencies": {"@auth/prisma-adapter":"latest","@hookform/resolvers":"latest","@prisma/client":"latest","@uploadthing/react":"latest","class-variance-authority":"latest","clsx":"latest","framer-motion":"latest","lucide-react":"latest","next":"latest","next-auth":"latest","papaparse":"latest","pdf-parse":"latest","prisma":"latest","react":"latest","react-dom":"latest","react-hook-form":"latest","recharts":"latest","tailwind-merge":"latest","uploadthing":"latest","zod":"latest"},
+  "devDependencies": {"@types/node":"latest","@types/papaparse":"latest","@types/react":"latest","@types/react-dom":"latest","autoprefixer":"latest","eslint":"latest","eslint-config-next":"latest","postcss":"latest","tailwindcss":"latest","typescript":"latest"}
+}
