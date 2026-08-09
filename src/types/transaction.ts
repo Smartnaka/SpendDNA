@@ -1,0 +1,1 @@
+export type TransactionType="credit"|"debit";export interface Transaction{id:string;date:Date;description:string;amount:number;type:TransactionType;balance:number;sender:string;recipient:string;bank:string;category:string}export interface Insight{title:string;body:string;tone:"positive"|"warning"|"neutral"}
